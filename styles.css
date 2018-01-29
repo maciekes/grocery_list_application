@@ -82,6 +82,7 @@ input {
 	border: 1px solid #939393;
 	font-family: 'Oswald', sans-serif;
 	margin: 5px 2px;
+	padding: 8px;
 }
 
 .addbutton {
